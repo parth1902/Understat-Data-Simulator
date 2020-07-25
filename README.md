@@ -1,4 +1,4 @@
-# Understat data simulator
+# Understat Data Simulator
 
 
 To simulate any match on understat and calculate expected points tables for different leagues.
